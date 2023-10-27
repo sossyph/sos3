@@ -1,16 +1,19 @@
-### Hi there 👋
+# HTTPS-BYPASSv2
 
-<!--
-**sosph/sosph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SCRIPT DDOS FREE BY : DagTriZaker <3 
 
-Here are some ideas to get you started:
+Không đem bán dưới mọi hình thức hãy là người dùng văn minh :V
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lệnh SETUP & RUN
+
+git clone https://github.com/dangminhtri123/HTTPS-BYPASSv2
+
+cd HTTPS-BYPASSv2
+
+npm i fake-useragent
+
+node HTTPS-BYPASSv2.js + URL/TARGET + TIME + THREADS + LIST PROXY :V
+
+VÍ DỤ :
+
+node HTTPS-BYPASSv2.js https://dagtriDepTrai.com 60 5 PROXYVIP.txt
