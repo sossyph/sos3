@@ -1,19 +1,15 @@
-# HTTPS-BYPASSv2
+# sosph
 
-SCRIPT DDOS FREE BY : DagTriZaker <3 
+DDOS BY SOSPH
 
-Không đem bán dưới mọi hình thức hãy là người dùng văn minh :V
+SETUP & RUN
 
-Lệnh SETUP & RUN
-
-git clone https://github.com/dangminhtri123/HTTPS-BYPASSv2
-
-cd HTTPS-BYPASSv2
+cd sosph
 
 npm i fake-useragent
 
-node HTTPS-BYPASSv2.js + URL/TARGET + TIME + THREADS + LIST PROXY :V
+node sosph.js + URL/TARGET + TIME + THREADS + LIST PROXY :V
 
-VÍ DỤ :
+EXAMPLE :
 
 node HTTPS-BYPASSv2.js https://dagtriDepTrai.com 60 5 PROXYVIP.txt
